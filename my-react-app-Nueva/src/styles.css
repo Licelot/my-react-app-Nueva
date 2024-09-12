@@ -1,0 +1,18 @@
+/* styles.css */
+/* Dentro de style.css */
+.custom-box {
+  height: 500px;
+  width: 70%;
+}
+.custom-header {
+  background-color: rgba(255, 7, 0, 0.55);
+}
+.custom-body {
+  background-color: rgba(250, 249, 249, 0.55);
+}
+/* Estilo para el encabezado de las columnas */
+.custom-header {
+    background-color: #0099ff; /* Fondo azul */
+    color: white; /* Texto blanco */
+  }
+  
