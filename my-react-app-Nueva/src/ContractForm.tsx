@@ -245,7 +245,7 @@ const ContractForm: React.FC = () => {
 
                       <TextField
                         name='tipoRequerimiento'
-                        label="Tipos de Requerimientos "
+                        label="Tipos de Requerimientos " 
                         variant="outlined"
                         select
                         fullWidth
