@@ -13,7 +13,7 @@ import HelpIcon from '@mui/icons-material/Help';
 import { GridColDef, GridRowSelectionModel } from '@mui/x-data-grid';
 import StripeDataGridComponent from './StripeDataGrid';
 import { DatosCatalogo, DatosPacc, datosCatalogo, Datos, preDatos, preNewDatos, datosPacc } from './datos';
-import { columnsPacc, columnsCatalogo, columnsObras, newColumns } from './columns'; // Importa las columnas definidas
+import { columnsPacc, columnsCatalogo, columnsObras, newColumns } from '../columns'; // Importa las columnas definidas
 import CustomTextField from './CustomTextField';
 import ModalComponent from './ModalComponent';
 import Input from '@mui/material/Input';
