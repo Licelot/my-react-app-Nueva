@@ -46,7 +46,7 @@ export const preNewDatos: NewDatos[] = [
   { id: 4, codigoSistema: '10101510', cuentaObjetal: '2.6.7.7.01', descripcion: 'Ratones', inv: 'inv4', medida: 'unidades', cantidad: 4 },
   { id: 5, codigoSistema: '10101511', cuentaObjetal: '2.6.7.2.01', descripcion: 'Cerdos', inv: 'inv5', medida: 'unidades', cantidad: 5 },
 ];
- 
+
 
 // datos.ts
 
@@ -59,7 +59,7 @@ export type DatosPacc = {
   unidadMedida: string;
   precioUnitario: number;
   trimestre: number;
-  total: number; 
+  total: number;
 }
 
 export const datosPacc: DatosPacc[] = [
